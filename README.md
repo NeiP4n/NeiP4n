@@ -26,7 +26,6 @@ No download — click and play.
 
 | | Link | What it is |
 |---|---|---|
-| 📱 | **[@Neip4n](https://t.me/Neip4n)** — *Nei Жив* | Personal Telegram. Bio: *«Я сборщик, к сожалению сцен»* — Unity inside-joke about assembling scenes all day. Fastest way to reach me. |
 | 👽 | **[@smoony94](https://t.me/smoony94)** · 23 subs | Devlog — *«Информация по разработке и будням»*. Raw diary: art iterations, EasySave3 + Yarn Spinner + QTE, object caching (1 obj → 10+ IDs), fact/branching system, sprite interpolation, Thunderstore prep + BOMBANANA Steam bypass. Honest WIP vibe. |
 | 🎮 | **[Nei-Pan on Steam](https://steamcommunity.com/id/Nei-Pan/)** | Level 31 · 124 games · 10-year badge · 18 reviews · 105 shots · Astrakhan' RU (aka Teqwer1232). Bio: *«Информация отсутствует. Потому что её нету.»* Recent: Aseprite 326h, Backrooms 80h, OBS 135h. |
 | 🕹️ | **[Panima_U on osu!](https://osu.ppy.sh/users/31094300)** | Rhythm side. osu! now hides stats behind login — handle is Panima_U. |
@@ -46,6 +45,6 @@ Repos here: `promptgraph`, `PerfectTemplateUnity`, `MultiplayerTemplate`, `Trapc
 
 ### 📫 Contact
 
-**Telegram DM [@Neip4n](https://t.me/Neip4n)** (preferred) · [@smoony94](https://t.me/smoony94) · [GitHub @NeiP4n](https://github.com/NeiP4n) · [itch.io](https://neipan.itch.io) · [Steam](https://steamcommunity.com/id/Nei-Pan/) · `isakoveugene0@gmail.com`
+**[@smoony94](https://t.me/smoony94)** · [GitHub @NeiP4n](https://github.com/NeiP4n) · [itch.io](https://neipan.itch.io) · [Steam](https://steamcommunity.com/id/Nei-Pan/) · `isakoveugene0@gmail.com`
 
 <p align="center"><sub>Last verified 26 Aug 2026 — all links checked live.</sub></p>
