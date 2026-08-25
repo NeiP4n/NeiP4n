@@ -9,7 +9,7 @@
 
 19 y/o Unity dev. I work on gameplay systems, multiplayer, BepInEx mods and small tools — whatever makes a game feel alive. Mostly C# / Unity, with game jams and browser prototypes on the side.
 
-**Focus:** Unity systems (networking, saves, dialogue) · AI-assisted workflow · Pixel art pipelines (Aseprite — 326h) · Atmospheric browser games
+**Focus:** Unity systems (networking, saves, dialogue) · AI-assisted workflow · Pixel art · Atmospheric browser games
 
 ---
 
@@ -26,12 +26,12 @@ No download — click and play.
 
 | | Link | What it is |
 |---|---|---|
-| 👽 | **[@smoony94](https://t.me/smoony94)** · 23 subs | Devlog — *«Информация по разработке и будням»*. Raw diary: art iterations, EasySave3 + Yarn Spinner + QTE, object caching (1 obj → 10+ IDs), fact/branching system, sprite interpolation, Thunderstore prep + BOMBANANA Steam bypass. Honest WIP vibe. |
-| 🎮 | **[Nei-Pan on Steam](https://steamcommunity.com/id/Nei-Pan/)** | Level 31 · 124 games · 10-year badge · 18 reviews · 105 shots · Astrakhan' RU (aka Teqwer1232). Bio: *«Информация отсутствует. Потому что её нету.»* Recent: Aseprite 326h, Backrooms 80h, OBS 135h. |
-| 🕹️ | **[Panima_U on osu!](https://osu.ppy.sh/users/31094300)** | Rhythm side. osu! now hides stats behind login — handle is Panima_U. |
-| 🧠 | **[neipan.itch.io](https://neipan.itch.io)** | Home for browser games (2 projects, links to GitHub). |
-| ♟️ | **[JekaJeka0 on Lichess](https://lichess.org/@/JekaJeka0)** | Chess — Жека, Astrakhan. *«Programmer and pixel designer и учусь играть в шахматы»*. Puzzles **1493 (7592 solved)**, Rapid 1358 / Classical 1271, 433 games. Casual learning account. |
-| 👾 | **[u/Wolker20000 · naPieN](https://www.reddit.com/user/Wolker20000/)** | 713 karma · 5y · 2 followers · Top 25%. Bio: *«Я чуток стеснителен... я разработчик игр на Unity. Пожалуйста не спорьте...»* Chill lurker: r/onlyok, r/Neurath, r/HotAndCold — one-word replies like «Ок», «Хорошо», «ого». Links SoundCloud / osu! / GitHub in profile. |
+| 👽 | **[@smoony94](https://t.me/smoony94)** | Devlog — *«Информация по разработке и будням»*. Unity WIP diary: art, saves/dialogue/QTE, branching, mods. |
+| 🎮 | **[Nei-Pan on Steam](https://steamcommunity.com/id/Nei-Pan/)** | Personal Steam. Bio: *«Информация отсутствует. Потому что её нету.»* |
+| 🕹️ | **[Panima_U on osu!](https://osu.ppy.sh/users/31094300)** | osu! — rhythm games side. |
+| 🧠 | **[neipan.itch.io](https://neipan.itch.io)** | Browser games — Backwoods / OnW. |
+| ♟️ | **[JekaJeka0 on Lichess](https://lichess.org/@/JekaJeka0)** | Chess — learning account. *«Programmer and pixel designer и учусь играть в шахматы»*. |
+| 👾 | **[u/Wolker20000 · naPieN](https://www.reddit.com/user/Wolker20000/)** | Reddit — *«Я чуток стеснителен... я разработчик игр на Unity»*. Quiet, short comments in meme/surreal subs. Profile links SoundCloud / osu! / GitHub. |
 
 ---
 
@@ -46,5 +46,3 @@ Repos here: `promptgraph`, `PerfectTemplateUnity`, `MultiplayerTemplate`, `Trapc
 ### 📫 Contact
 
 **[@smoony94](https://t.me/smoony94)** · [GitHub @NeiP4n](https://github.com/NeiP4n) · [itch.io](https://neipan.itch.io) · [Steam](https://steamcommunity.com/id/Nei-Pan/) · `isakoveugene0@gmail.com`
-
-<p align="center"><sub>Last verified 26 Aug 2026 — all links checked live.</sub></p>
