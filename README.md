@@ -31,7 +31,7 @@ No download — click and play.
 | 🕹️ | **[Panima_U on osu!](https://osu.ppy.sh/users/31094300)** | Rhythm side. osu! now hides stats behind login — handle is Panima_U. |
 | 🧠 | **[neipan.itch.io](https://neipan.itch.io)** | Home for browser games (2 projects, links to GitHub). |
 | ♟️ | **[JekaJeka0 on Lichess](https://lichess.org/@/JekaJeka0)** | Chess — Жека, Astrakhan. *«Programmer and pixel designer и учусь играть в шахматы»*. Puzzles **1493 (7592 solved)**, Rapid 1358 / Classical 1271, 433 games. Casual learning account. |
-| 👾 | **[u/Wolker20000](https://www.reddit.com/user/Wolker20000/)** | Reddit blocks scraping without OAuth — no public data visible. Not leaking anything. |
+| 👾 | **[u/Wolker20000 · naPieN](https://www.reddit.com/user/Wolker20000/)** | 713 karma · 5y · 2 followers · Top 25%. Bio: *«Я чуток стеснителен... я разработчик игр на Unity. Пожалуйста не спорьте...»* Chill lurker: r/onlyok, r/Neurath, r/HotAndCold — one-word replies like «Ок», «Хорошо», «ого». Links SoundCloud / osu! / GitHub in profile. |
 
 ---
 
