@@ -26,12 +26,12 @@ No download — click and play.
 
 | | Link | What it is |
 |---|---|---|
-| 👽 | **[@smoony94](https://t.me/smoony94)** | Devlog — *«Информация по разработке и будням»*. Unity WIP diary: art, saves/dialogue/QTE, branching, mods. |
-| 🎮 | **[Nei-Pan on Steam](https://steamcommunity.com/id/Nei-Pan/)** | Personal Steam. Bio: *«Информация отсутствует. Потому что её нету.»* |
+| 👽 | **[@smoony94](https://t.me/smoony94)** | Devlog — *dev & daily life*. Unity WIP diary: art, saves/dialogue/QTE, branching, mods. |
+| 🎮 | **[Nei-Pan on Steam](https://steamcommunity.com/id/Nei-Pan/)** | Personal Steam. Bio: *"No information. Because there is none."* |
 | 🕹️ | **[Panima_U on osu!](https://osu.ppy.sh/users/31094300)** | osu! — rhythm games side. |
 | 🧠 | **[neipan.itch.io](https://neipan.itch.io)** | Browser games — Backwoods / OnW. |
-| ♟️ | **[JekaJeka0 on Lichess](https://lichess.org/@/JekaJeka0)** | Chess — learning account. *«Programmer and pixel designer и учусь играть в шахматы»*. |
-| 👾 | **[u/Wolker20000 · naPieN](https://www.reddit.com/user/Wolker20000/)** | Reddit — *«Я чуток стеснителен... я разработчик игр на Unity»*. Quiet, short comments in meme/surreal subs. Profile links SoundCloud / osu! / GitHub. |
+| ♟️ | **[JekaJeka0 on Lichess](https://lichess.org/@/JekaJeka0)** | Chess — learning account. *"Programmer and pixel designer learning chess."* |
+| 👾 | **[u/Wolker20000 · naPieN](https://www.reddit.com/user/Wolker20000/)** | Reddit — *"I'm a bit shy, be kind. I'm a Unity game dev. Please don't argue, I'm scared of arguing."* Quiet, short comments in meme/surreal subs. Profile links SoundCloud / osu! / GitHub. |
 
 ---
 
