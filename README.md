@@ -7,7 +7,7 @@
 
 ### About
 
-19 y/o Unity dev. I work on gameplay systems, multiplayer, BepInEx mods and small tools — whatever makes a game feel alive. Mostly C# / Unity, with game jams and browser prototypes on the side.
+19 y/o Unity dev. I work on gameplay systems, multiplayer and small tools — whatever makes a game feel alive. Mostly C# / Unity, with game jams and browser prototypes on the side.
 
 **Focus:** Unity systems (networking, saves, dialogue) · AI-assisted workflow · Pixel art · Atmospheric browser games
 
@@ -37,7 +37,7 @@ No download — click and play.
 
 ### 🛠️ Stack
 
-**Unity** 2021–6000 LTS · Netcode · BepInEx · **C#** (+ JS/C++) · **Aseprite** / pixel art · Yarn Spinner · EasySave3 · Thunderstore · Git · OBS
+**Unity** 2021–6000 LTS · BepInEx · **C#** (+ JS/C++) · **Aseprite** / pixel art · Yarn Spinner · EasySave3 · Thunderstore · Git · OBS
 
 Repos here: `promptgraph`, `PerfectTemplateUnity`, `MultiplayerTemplate`, `Trapcore` (C++), `WinterGame` etc.
 
