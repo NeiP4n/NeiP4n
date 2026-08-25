@@ -1,4 +1,4 @@
-# Hi, I'm NeiPan 👋
+# Hi, I'm NeiPan — or just Jeka 👋
 ### Unity Developer | AI Builder
 
 > 19 y/o — Astrakhan, Russia. I build games, tools and systems in Unity. I like gameplay logic, pixel art and AI-assisted dev.
