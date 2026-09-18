@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="assets/neipan.png" alt="NeiPan">
+</p>
+<p align="center">
+  <img src="assets/pan.gif" alt="NeiPan — sleeping pixel character">
+</p>
+
 # Hi, I'm NeiPan — or just Jeka 👋
 ### Unity Developer | AI Coder
 
