@@ -56,4 +56,12 @@ Repos here: `promptgraph`, `PerfectTemplateUnity`, `MultiplayerTemplate`, `Trapc
 
 ---
 
+### 🤖 AI
+
+**Full AI usage, written down as a fact.** In every repo where AI is part of the work, I state it plainly in that repo's README — I don't bury it in a footnote or dress it up as something else. What's published here was built with AI in the loop, and I'd rather be exact about that than vague about it.
+
+I review, run and ship every line myself. The AI is a tool I work with, not an alibi.
+
+---
+
 💎 `UQCOA-XflLUmrTonrEaiVA_zFIBRlDr0TCeQ22GtnP91RIhI` — TON
